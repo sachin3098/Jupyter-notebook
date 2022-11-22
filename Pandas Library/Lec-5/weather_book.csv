@@ -1,0 +1,9 @@
+Day,Temperature,Windspeed,Event
+01-05-2022,32,6,Rain
+02-05-2022,NaN,7,Dusty
+03-05-2022,40,NaN,Rain
+04-05-2022,28,4,Snow
+05-05-2022,42,3,NaN
+06-05-2022,NaN,2,Sunny
+07-05-2022,NaN,NaN,NaN
+08-05-2022,42,,Rain
